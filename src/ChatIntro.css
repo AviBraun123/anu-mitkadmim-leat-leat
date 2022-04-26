@@ -1,0 +1,23 @@
+.pic-chat{
+    max-height: 140px;
+}
+
+.card-chat{
+    max-height: 150px !important;
+}
+
+button{
+    text-align: left;
+    border: none;
+    background: none;
+}
+
+.pic-col{
+    background-color: rgb(251, 248, 248);
+    border-style:double;
+    border-color: rgb(171, 215, 208);
+}
+
+.fullDate{
+    float: right;
+}
