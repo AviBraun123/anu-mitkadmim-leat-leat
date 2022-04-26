@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# CriChæt!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+WhatApp-like project for Advanced Programming - 2
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+### Dependencies
 
-### `npm start`
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Installing
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* How/where to download your program
+* Any modifications needed to be made to files/folders
 
-### `npm test`
+### Executing program
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Open "http://localhost:3000/" in your browser, you just get right into our LOG IN screen.
+there are several users who are already exist in our database:
+Username:                       Password:
+          Neryia                          Nd123123
+          Avraham                         Ab123123
+          Matan                           Ms123123
+          Nikol                           Ne123123
+          Elad                            Eb123123
+          Tamir                           Ty123123
+          
+Otherwise, you can register by clicking the green link in the bottom of the box, it will open in "http://localhost:3000/registration".
 
-### `npm run build`
+In your registration you will be asked for some details for your user:
+unique username, other users will search you with it
+STRONG password, includes an uppercase letter, a lowercase letter and a digit. also, there must be at least 8 characters. (after that you will have to verify it so... remember what you wrote)
+nickname, so the people you talk with will see you as.
+and only if you want... you can add profile picture.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+After you did one of these actions you will move to the chat screen, it will open in "http://localhost:3000//chat?username=...".
+Thats the main screen of chats of this user.
+In the left side you can see all the "open chats" you have and the last message that was sent in them, and in the right side you will see some default template.
+If you click in one of those intros, the whole chat will open in the right side of the screen.
+  now, in the bottom you have input space, "send" button and "add file" button.
+  clicking on the "add file" open you 3 options:
+    1. Record - open modal, you can start and stop recording with the intended button, after you stop two buttons ("play" and "send") will appear.
+    2. Image - open modal, you can choose from your computer any image and send it.
+    3. Video - open modal, you can choose from your computer any video and send it.
+On the upper left corner there's a button for adding a new contact, on click a modal with input space will open.
+  To add new contact you need to enter his username (case sensative) and click on your wanted contact in the list that will appear and click on the "add" button to complete the action.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Authors
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Avraham Brauner
+Matan Shneider
+Neryia DayanZada
