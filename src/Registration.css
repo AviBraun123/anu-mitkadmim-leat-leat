@@ -7,6 +7,7 @@
     left: 5%;
     top: 30%;
     padding: 3%;
+    border-radius: 20px;
 }
 
 .error{
@@ -15,4 +16,8 @@
 
 .gooderror{
     color: rgb(49, 187, 44);
+}
+
+.reg-info{
+    
 }

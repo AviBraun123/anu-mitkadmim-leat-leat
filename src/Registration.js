@@ -4,6 +4,8 @@ import './Log_in.css';
 import './Registration.css';
 import './fireworks.css';
 import info from "./Info.js";
+import { OverlayTrigger, Tooltip } from 'react-bootstrap';
+
 
 function Registration() {
 
@@ -71,6 +73,9 @@ function Registration() {
     setFile(URL.createObjectURL(e.target.files[0]));
   } 
   const [file, setFile] = useState(null);  
+  // Password  must includes uppercase, lowercase, digit and be at least 8 characters
+
+  var tooltip = <Tooltip />;
   
   return (
     <form onSubmit={register}>
@@ -106,6 +111,11 @@ function Registration() {
             aria-describedby="basic-addon1"
             required
           />
+          <OverlayTrigger placement="right" overlay={(<Tooltip>Password  must include an uppercase letter, a lowercase letter and a digit. also, there must be at least 8 characters.</Tooltip>)}>
+          <button type="button" class="btn btn-secondary">
+          !
+        </button>
+</OverlayTrigger>
         </div>
 
         {(error.includes("???")) ? (<h5 className="error"> {error} </h5>) : "" }
