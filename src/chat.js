@@ -8,7 +8,6 @@ import ContactResults from './ContactResults';
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import ConveCricket from './ConveCricket';
 import ChatDialog from './ChatDialog';
-import $ from "jquery";
 
 export default function Chat() {
     
