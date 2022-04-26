@@ -1,0 +1,127 @@
+.dialogScreen{
+    background-color: rgb(118, 239, 132);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    padding: 2%;
+    height: 85px;
+    text-align: center;
+}
+
+.sendbox{
+    width: 80%;
+
+}
+
+.buttomLine{
+    position: fixed;
+    top: 90%;
+    width: 60%;
+}
+
+
+
+.msgBox{
+    height: 75vh;
+    overflow-y: auto;
+}
+
+.paperclip{
+    background-color: rgb(44, 198, 146);
+    border-radius: 5px;
+}
+
+#inputSend{
+    background-color: rgb(233, 233, 102);
+    border-radius: 5px;
+}
+
+.record-button{
+    text-align: center;
+    border-radius: 30px;
+}
+
+.left{
+    margin-top: 10px;
+    max-width: 80%;
+    padding-left: 15px;
+    padding-right: 10px;
+    background-color: rgb(218, 232, 159);
+    clip-path: polygon(0 0, 100% 0, 100% 20%, 100% 100%, 10px 100%, 10px 20%);
+    display: inline-block;
+}
+
+.right{
+    margin-top: 10px;
+    float: right !important;  
+    max-width: 80%;
+    padding-left: 10px;
+    padding-right: 15px;
+    background-color: rgb(218, 232, 159);
+    clip-path: polygon(0 0, 100% 0, calc(100% - 10px) 20%, calc(100% - 10px) 100%, 0 100%, 0% 50%);
+    display: inline-block;
+    
+}
+
+.singlemsg{
+    
+}
+
+.actualMsg{
+    margin: 5px;
+    font-weight: 600;
+    font-size: large;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    display: inline-block
+}
+
+#recordButton{
+    color: red;
+}
+
+.item{
+    font-size: larger;
+}
+
+.emoji{
+    float: right;
+}
+
+.actualImgMsg{
+    max-width: 200px;
+    max-height: 200px;
+    margin: 10px;
+}
+
+.fileMsg{
+    max-width: 30%;
+    max-height: 30%;
+}
+
+.audioMsg{
+    margin: 10px;
+}
+
+.msgTime{
+    font-size: x-small;
+    font-weight: 200;
+}
+
+.fullRow{
+    width: 100% !important;
+    background-color: rgb(118, 239, 132);
+}
+
+.break{
+    clear: both; 
+    float: left !important; 
+    display: block; 
+    position: relative;
+}
+
+.partnerPic{
+    width: 60px;
+    height: 60px;
+    border-radius:50%;
+    float: left;
+}

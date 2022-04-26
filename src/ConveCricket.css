@@ -1,0 +1,29 @@
+.chatBox{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    
+}
+
+#first{
+    position:absolute;
+    right: 12%;
+    max-width: 50%;
+    z-index: 1;
+}
+
+#crickit{
+    position:absolute;
+    right: 20%;
+    max-width: 40%;
+    z-index: 0;
+    top: 8%;
+}
+
+#second{
+    position: absolute;
+    top: 75%;
+    right: 21%;
+    max-width: 40%;
+    z-index: 1;
+}
+
