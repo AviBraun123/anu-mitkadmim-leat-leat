@@ -14,9 +14,9 @@ WhatApp-like project for Advanced Programming - 2
 
 * node.js
 * react\
-  in node.js ->\
-  navigate to the location you want the react-app to be, with the command "cd 'the_desired_location_path' ->\
-  enter the command "npx create-react-app 'name_your_app'")
+ &emsp; in node.js ->\
+ &emsp; navigate to the location you want the react-app to be, with the command "cd 'the_desired_location_path' ->\
+ &emsp; enter the command "npx create-react-app 'name_your_app'")
 * react-router-dom\
  &emsp; in node.js [already open at your react-app location] -> enter the command "npm install react-router-dom@6"
 * react-bootstrap\
@@ -27,12 +27,12 @@ WhatApp-like project for Advanced Programming - 2
 Open "http://localhost:3000/" in your browser, you just get right into our LOG IN screen.\
 there are several users who are already exist in our database:\
 Username: &emsp; &emsp; Password:\
-&emsp; Neryia &nbsp;&nbsp;&nbsp;&emsp;&emsp; Nd123123\
-&emsp; Avraham &nbsp;&nbsp;&emsp;&emsp; Ab123123\
-&emsp; Matan   &emsp;&emsp;&emsp; Ms123123\
-&emsp; Nikol   &emsp;&emsp;&emsp; Ne123123\
-&emsp; Elad    &nbsp;&emsp;&emsp;&emsp; Eb123123\
-&emsp; Tamir   &emsp;&emsp;&emsp; Ty123123
+&emsp; Neryia &nbsp;&emsp;&emsp;&emsp; Nd123123\
+&emsp; Avraham &emsp;&emsp;&emsp; Ab123123\
+&emsp; Matan   &nbsp;&nbsp;&emsp;&emsp;&emsp; Ms123123\
+&emsp; Nikol   &nbsp;&nbsp;&emsp;&emsp;&emsp; Ne123123\
+&emsp; Elad    &nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp; Eb123123\
+&emsp; Tamir   &nbsp;&nbsp;&emsp;&emsp;&emsp; Ty123123
           
 Otherwise, you can register by clicking the green link in the bottom of the box, it will open in "http://localhost:3000/registration".
 
