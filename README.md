@@ -30,7 +30,7 @@ Username: &emsp; &emsp; Password:\
 &emsp; Neryia  &nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp; Nd123123\
 &emsp; Avraham &nbsp;&nbsp;&nbsp;&emsp;&emsp; Ab123123\
 &emsp; Matan   &nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp; Ms123123\
-&emsp; Nikol   &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; Ne123123\
+&emsp; Nikol   &nbsp;&emsp;&emsp;&emsp;&emsp; Ne123123\
 &emsp; Elad    &nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; Eb123123\
 &emsp; Tamir   &nbsp;&emsp;&emsp;&emsp;&emsp; Ty123123
           
