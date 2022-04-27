@@ -27,7 +27,7 @@ WhatApp-like project for Advanced Programming - 2
 Open "http://localhost:3000/" in your browser, you just get right into our LOG IN screen.\
 there are several users who are already exist in our database:\
 Username: &emsp; &emsp; Password:\
-&emsp; Neryia  &nbsp;&emsp;&emsp;&emsp; Nd123123\
+&emsp; Neryia  &nbsp;&nbsp;&emsp;&emsp;&emsp; Nd123123\
 &emsp; Avraham &emsp;&emsp;&emsp; Ab123123\
 &emsp; Matan   &nbsp;&nbsp;&emsp;&emsp;&emsp; Ms123123\
 &emsp; Nikol   &nbsp;&nbsp;&emsp;&emsp;&emsp; Ne123123\
