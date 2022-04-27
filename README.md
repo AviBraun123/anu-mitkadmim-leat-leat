@@ -4,27 +4,35 @@ WhatApp-like project for Advanced Programming - 2
 
 ## Getting Started
 
-### Dependencies
+### Libraries required
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* react
+* react-router-dom
+* react-bootstrap
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* node.js
+* react\
+ &emsp; in node.js ->\
+ &emsp;&emsp; navigate to the location you want the react-app to be, with the command "cd 'the_desired_location_path' ->\
+ &emsp;&emsp; enter the command "npx create-react-app 'name_your_app'")
+* react-router-dom\
+ &emsp; in node.js [already open at your react-app location] -> enter the command "npm install react-router-dom@6"
+* react-bootstrap\
+ &emsp; in node.js [still open at your react-app location] -> enter the command "npm install react-bootstrap bootstrap"
 
 ### Executing program
 
 Open "http://localhost:3000/" in your browser, you just get right into our LOG IN screen.\
 there are several users who are already exist in our database:\
-Username:                       Password:\
-          Neryia                          Nd123123\
-          Avraham                         Ab123123\
-          Matan                           Ms123123\
-          Nikol                           Ne123123\
-          Elad                            Eb123123\
-          Tamir                           Ty123123
+Username: &emsp; &emsp; Password:\
+&emsp; Neryia  &emsp;&emsp; Nd123123\
+&emsp; Avraham &emsp;&emsp; Ab123123\
+&emsp; Matan   &emsp;&emsp; Ms123123\
+&emsp; Nikol   &emsp;&emsp; Ne123123\
+&emsp; Elad    &emsp;&emsp; Eb123123\
+&emsp; Tamir   &emsp;&emsp; Ty123123
           
 Otherwise, you can register by clicking the green link in the bottom of the box, it will open in "http://localhost:3000/registration".
 
