@@ -16,11 +16,12 @@ WhatApp-like project for Advanced Programming - 2
 * react\
  &emsp; in node.js ->\
  &emsp; navigate to the location you want the react-app to be, with the command "cd 'the_desired_location_path' ->\
- &emsp; enter the command "npx create-react-app 'name_your_app'")
+ &emsp; enter the command "npx create-react-app 'name_your_app'").
 * react-router-dom\
- &emsp; in node.js [already open at your react-app location] -> enter the command "npm install react-router-dom@6"
+ &emsp; in node.js [already open at your react-app location] -> enter the command "npm install react-router-dom@6".
 * react-bootstrap\
- &emsp; in node.js [still open at your react-app location] -> enter the command "npm install react-bootstrap bootstrap"
+ &emsp; in node.js [still open at your react-app location] -> enter the command "npm install react-bootstrap bootstrap".
+* clone the project from this git.
 
 ### Executing program
 
