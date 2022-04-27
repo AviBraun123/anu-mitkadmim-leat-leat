@@ -43,7 +43,7 @@ STRONG password, includes an uppercase letter, a lowercase letter and a digit. a
 nickname, so the people you talk with will see you as.\
 and only if you want... you can add profile picture.
 
-After you did one of these actions you will move to the chat screen, it will open in "http://localhost:3000//chat?username=...".\
+After you did one of these actions you will move to the chat screen, it will open in "http://localhost:3000//chat?username=...". \
 Thats the main screen of chats of this user.\
 In the left side you can see all the "open chats" you have and the last message that was sent in them, and in the right side you will see some default template.\
 If you click in one of those intros, the whole chat will open in the right side of the screen.\
