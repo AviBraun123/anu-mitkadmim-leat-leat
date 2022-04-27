@@ -31,8 +31,8 @@ Username: &emsp; &emsp; Password:\
 &emsp; Avraham &nbsp;&nbsp;&nbsp;&emsp;&emsp; Ab123123\
 &emsp; Matan   &nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp; Ms123123\
 &emsp; Nikol   &nbsp;&nbsp;&emsp;&emsp;&emsp; Ne123123\
-&emsp; Elad    &nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp; Eb123123\
-&emsp; Tamir   &nbsp;&nbsp;&emsp;&emsp;&emsp; Ty123123
+&emsp; Elad    &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp; Eb123123\
+&emsp; Tamir   &emsp;&emsp;&emsp;&emsp; Ty123123
           
 Otherwise, you can register by clicking the green link in the bottom of the box, it will open in "http://localhost:3000/registration".
 
